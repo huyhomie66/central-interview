@@ -17,8 +17,6 @@ import Icon from '@magento/venia-ui/lib/components/Icon';
 import Image from '@magento/venia-ui/lib/components/Image';
 import defaultClasses from './carousel.module.css';
 import Thumbnail from './thumbnail';
-import { ReactSmartScroller } from 'react-smart-scroller';
-import ImageScroller from 'react-image-scroller';
 
 const IMAGE_WIDTH = 640;
 
